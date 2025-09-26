@@ -4,6 +4,6 @@ Lenguaje de programación para grandes volumenes de datos
 
 ## Lenguaje Programación
 
-Python
+python
 
 ### Derechos reservados ® Takeshi Coronado Rodriguez
